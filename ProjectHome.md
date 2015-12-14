@@ -1,0 +1,3 @@
+Gnostice PDFOne Java is a Java library for developers to implement PDF based software solutions. PDFOne Java provides a rich set of APIs to create, manipulate and organize PDF documents, process PDF forms and perform other PDF document related tasks from within your Java applications. No external PDF software such as Adobe® PDF library, Adobe Acrobat® Professional or Ghostscript is required!
+
+[Commercial newer version with full support](http://www.gnostice.com/PdfOneJavaOverview.asp)
